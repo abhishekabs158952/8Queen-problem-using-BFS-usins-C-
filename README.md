@@ -1,4 +1,4 @@
-# 8Queen-problem-using-BFS-usins-Cpp
+# 8Queen-problem-using-BFS-usins-Cpp(oopsd)
 # Abhishek kumar(Abs)
 # 1801005
 
